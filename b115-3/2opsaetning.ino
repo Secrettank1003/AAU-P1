@@ -7,9 +7,9 @@ Pin 2( i midten) til DHTPIN 3 - sat op i koden
 Pin 3 (til højre) skal saettes i ground(GND)
 
 Temp:
-Venstreben sættes til 5 V
+Venstreben sættes til 5 V (kigges fra pin-view)
 Midterste ben til A1 - sat op i koden
-Hoejreben til GND
+Hoejreben til GND (kigges fra pin-view)
 
 
 Ur:
